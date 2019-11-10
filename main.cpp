@@ -5,8 +5,6 @@
 using std::cout;
 using std::endl;
 using std::string;
-using std::to_string;
-using std::stoi;
 
 template<class T>
 struct IdentityProcessor : BaseProcessor<T> {
